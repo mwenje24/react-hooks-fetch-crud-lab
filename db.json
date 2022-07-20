@@ -65,6 +65,18 @@
         "controlled"
       ],
       "correctIndex": 1
+    },
+    {
+      "prompt": "What is my name",
+      "answers": [
+        "Dee",
+        "David",
+        "andrew",
+        "andrew",
+        "kim"
+      ],
+      "correctIndex": 0,
+      "id": 7
     }
   ]
 }
